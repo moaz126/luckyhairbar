@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:luckyhairbar/screens/home/homePage.dart';
 import 'package:sizer/sizer.dart';
 
-import '../home/homePage.dart';
 
 class navBar extends StatefulWidget {
   navBar({
